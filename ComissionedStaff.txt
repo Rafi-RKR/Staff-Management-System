@@ -1,0 +1,15 @@
+Raad Shahmat
+45678
+Sales Manager
+85.5
+38
+Pious Alam Patwary
+20121
+Sales Excutive
+45.0
+37
+Kamrul Khan
+789
+Clerk Manager
+65.0
+28
